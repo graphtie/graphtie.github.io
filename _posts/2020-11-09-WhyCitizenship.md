@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Why (Black) Citizenship? Toward Building a Rhetoric.
+title: Why (Black) Citizenship? Building a Rhetoric.
 ---
 ​
 Black Lives Matter. This is an unequivocal truth, and yet, the very notion that Black people's lives are equal to our counterparts remains highly contested particularly in the United States. The rejection of Black humanity and right(s) to live is a question of citizenship, and a prime example of how a predominantly white colonial nation-state finds more comfort in separation and exclusivity than in equity. Simply, we need a Black rhetoric of citizenship because Black lives and experiences matter. And, systemic oppression and antiBlackness don't stop just because the rest of the world decides to stop paying attention. 
