@@ -1,9 +1,7 @@
 ---
 layout: post
-title: Why Citizenship? 
+title: Why (Black) Citizenship? Toward Building a Rhetoric.
 ---
-
-THEORY: Toward Building A Black Rhetoric of Citizenship
 ​
 In building this rhetoric of citizenship, I've taken considerable steps in revising rhetorical theory in order to reconfigure understanding of citizenship as not simply national, but sociocultural. This is to say, when we begin to collectively think of citizenship not simply as a status bestowed upon individuals by the State (which, effectively, creates literal and figurative borders that allow for current and past zeitgeist's violent practices of Othering) and instead as a sense of belonging shaped by cultural belonging, we can then cross boundaries of race, gender, sexuality, and nationality and examine the ways in which citizenship may be possessed, confirmed, performed, and/or rejected. 
   
