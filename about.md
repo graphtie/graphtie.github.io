@@ -8,7 +8,7 @@ I am a Black woman scholar. My research centers the precarious nature of America
 
 Pronouns she / her / hers. 
 
-Read more about me here: https://cssh.northeastern.edu/student/tieanna-graphenreed/ 
+Read more about me [on Northeastern University's website](https://cssh.northeastern.edu/student/tieanna-graphenreed/) 
 
 ### More Information: Professional Background 
 
