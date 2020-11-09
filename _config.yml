@@ -3,7 +3,7 @@
 #
 
 # Name of your site (displayed in the header)
-name: Tieanna Graphenreed Rhetoric | Race | Digital Humanities
+name: Tieanna Graphenreed 
 
 # Short bio or description (displayed in the header)
 description: My name is Tieanna Graphenreed, and I am Black woman scholar in Rhetoric and Composition. My research interests span rhetoric and writing, but closest to my heart is the cultivation of rhetorics about Black life, Black citizenship, and the barriers the global anti-blackness presents to both. My research mines the intersection of performance studies, political resistance, and cultural rhetorics—especially rhetorics of mass media and theories of digital space/place.
@@ -17,11 +17,11 @@ avatar: https://Users/tieannagraphenreed/Documents/GitHub/graphtie.github.io/ima
 
 # Includes an icon in the footer for each username you enter
 footer-links:
-  Email: graphenreed.t@northeastern.edu
-  github: graphtie
+  Email: 
+  github: 
   linkedin:
   rss: # just type anything here for a working RSS icon
-  twitter: graphtie
+  twitter: 
 
 
 # Enter your Disqus shortname (not your username) to enable commenting on posts
