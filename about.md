@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-I am a Black woman scholar. My research centers the precarious nature of American citizenship experienced by People of Color, remedies violent erasures, restores visibility, and highlights Black and Brown freedom struggles. Currently, I am pursuing my PhD Student in Writing and Rhetoric at Northeastern University.  
+My name is Tieanna Graphenreed, and I am Black woman scholar in Rhetoric and Composition. My research interests span rhetoric and writing, but closest to my heart is the cultivation of rhetorics about Black life, Black citizenship, and the barriers global anti-blackness presents to both. My research mines the intersections of civic education and political resistance, Black geographies, and legal/cultural rhetorics giving special attention to theories of Black space/place (digital and otherwise).  
 
 Pronouns she / her / hers. 
 
